@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intents</string>
+	<string name="next_screen">Próximo tela</string>
+	<string name="name">Nome</string>
+	<string name="age">Idade</string>
+	<string name="user_name">Nome: %1s</string>
+	<string name="user_age">Idade: %1s</string>
+	<string name="second_screen">Nova tela</string>
+	<string name="hello_world"> lfp </string>
+	<string name="action_settings"> dsa </string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Layouts</string>
+    <string name="name_label">Nome:</string>
+    <string name="see_message">Ver mensagem</string>
+    <string name="hello_message">Olá, %1$s!</string>
+    <string name="hello_world"> Relo </string>
+    <string name="action_settings"> jjg </string>
+
+</resources>

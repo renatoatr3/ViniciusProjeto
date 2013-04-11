@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schema.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    
+    <TextView
+        android:id="@+id/welcome_message"
+        android:layout_width="match_parent"
+        android:layout_theight="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centernVertical="true" />
+    
+    <Button
+        android:id="@id/add_name_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/welcome_message"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
